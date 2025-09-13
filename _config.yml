@@ -1,7 +1,7 @@
 # Site settings
 title: "Umair Hameed – DevOps Engineer"
 description: "DevOps Engineer"
-theme: jekyll-theme-merlot
+theme: jekyll-theme-slate
 url: "https://umairhameed236.github.io"
 baseurl: "/My-Portfolio"
 
