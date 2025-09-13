@@ -1,0 +1,19 @@
+# Site settings
+title: "Umair Hameed – DevOps Engineer"
+description: "DevOps Engineer"
+theme: jekyll-theme-cayman
+url: "https://umairhameed236.github.io"
+baseurl: "/My-Portfolio"
+
+# Author info
+author:
+  name: "Umair Hameed"
+  email: "umair.hameed236@gmail.com"
+  linkedin: "https://www.linkedin.com/in/umairhameed/"
+  github: "https://github.com/umairhameed236"
+
+# Plugins (optional, adds SEO + RSS feed)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  
