@@ -21,13 +21,14 @@
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="About Me" width="100">
 </p>
-I am a DevOps Engineer with 4 years of experience specializing in cloud-native solutions, CI/CD automation, infrastructure as code, and DevSecOps practices.  
-My expertise spans **Azure, GCP, Terraform, Kubernetes, Ansible, Jenkins, GitHub Actions, GitLab CI/CD, and OpenShift**. I thrive in building scalable infrastructure, optimizing performance, and driving secure cloud adoption for enterprises across diverse industries.
+I am a DevOps Engineer with 4 years of hands-on experience delivering cloud-native, secure, and automated solutions. My expertise spans Azure, GCP, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions, GitLab CI/CD, and OpenShift, enabling me to design and implement resilient infrastructures and efficient delivery pipelines.
+
+I specialize in CI/CD automation, infrastructure as code (IaC), and DevSecOps practices, ensuring that systems are scalable, performant, and compliant with enterprise security standards. With a proven track record of driving cloud adoption, performance optimization, and operational excellence across diverse industries, I thrive at the intersection of development and operations — enabling teams to innovate faster with confidence.
 
 
 ## Experience  
 <p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/2942/2942076.png" alt="Experience" width="100">
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" alt="Experience" width="100">
 </p>
 
 - **Etisalat – DevOps Engineer**  
